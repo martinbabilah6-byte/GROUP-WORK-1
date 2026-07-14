@@ -1,0 +1,28 @@
+
+--- Protection Report ---
+Circuit: room1
+Load Current: 25 A
+Design Current: 31.25 A
+Recommended Device: 32 A
+Status: Device selected.
+
+--- Protection Report ---
+Circuit: room2
+Load Current: 50 A
+Design Current: 62.5 A
+Recommended Device: 63 A
+Status: Device selected.
+
+--- Protection Report ---
+Circuit: \room3
+Load Current: 6.52174 A
+Design Current: 8.15217 A
+Recommended Device: 10 A
+Status: Device selected.
+
+--- Protection Report ---
+Circuit: room4
+Load Current: 15.9091 A
+Design Current: 19.8864 A
+Recommended Device: 20 A
+Status: Device selected.
