@@ -4,7 +4,7 @@ Circuit Breaker and Fuse Selection System
 ****GROUP MEMBERS AND INDEX NUMBERS****
 #NAMES                             #INDEX
 MARTIN BABILAH                     01240920B
-RICHMOND AFARI
+RICHMOND AFARI                     01245919B
 AMUYAO FESTUS KWETEY               01244186B
 BENSAH JUNIOR JOSEPH               01242875B
 EZRA ARMOO ENISON                  01243736B
