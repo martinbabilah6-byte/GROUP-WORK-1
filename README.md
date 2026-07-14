@@ -12,7 +12,7 @@ OFOSU DAVID OPOKU                  01243218B
 LEMBOE MARVELOUS MARSHAL           01242579B
 QUARSHIE DENNINS WISE              01242874B
 MISBAAHU FUSEINI                   01240271B
-SAMUEL NARTEY KWEI
+                
 
 ***COURSE NAME AND CODE***
 Introduction to Computer Programming **(BEE 208)**
