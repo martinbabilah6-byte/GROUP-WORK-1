@@ -1,3 +1,13 @@
+Student Name         Index Number      Role / Contribution 
+Martin Babilah       01240920B         Project lead 
+Richmond afari                         Algorithm writer
+Student 3                              Pseudocode writer 
+Student 4                              Flowchart designer
+Richmond Afari                         C++ programmer 
+Student 6                              C++ programmer 
+Student 7                              Testing lead
+
+
 # Circuit Breaker and Fuse Selection System
 
 This project contains a C++ program that helps estimate a suitable circuit breaker or fuse rating for one or more electrical circuits.
